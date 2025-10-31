@@ -615,4 +615,10 @@ All figures saved in `results/figures/`:
 
 ---
 
+📂 **Further Details:**
+Complete data, code outputs, and extended documentation can be found on my Google Drive:
+👉 [**Access here**]([https://drive.google.com/drive/folders/1RU36EkpDQ2iJ_pNuDfi8jibp8qUGT483?usp=sharing])
+
+---
+
 **END OF TECHNICAL REPORT**
